@@ -1,3 +1,9 @@
+<div align="center"> 
+   
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</div>
+
 # Calculadora de IMC
 
 Este projeto é uma simples calculadora de IMC (Índice de Massa Corporal) desenvolvida em JavaScript.
@@ -17,10 +23,12 @@ A aplicação solicita ao usuário sua altura (em metros) e peso (em quilogramas
 
 ## Classificações
 
-- **Abaixo do peso:** IMC < 18.5  
-- **Peso normal:** 18.5 ≤ IMC < 24.9  
-- **Sobrepeso:** 24.9 ≤ IMC < 29.9  
-- **Obesidade grau 1:** 29.9 ≤ IMC < 34.9  
+| IMC | Classificação |
+|-----|---------------|
+| Abaixo de 18,5 | Abaixo do peso |
+| 18,5 - 24,9 | Peso normal |
+| 25,0 - 29,9 | Sobrepeso |
+| 29,0 - 34,9 | Obesidade grau 1 |
 
 ## Como executar
 
